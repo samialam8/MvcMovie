@@ -35,3 +35,4 @@ C:\Users\Mohammad Sami Alam\Documents\Code\c1\MvcMovie\obj\Debug\netcoreapp3.1\M
 C:\Users\Mohammad Sami Alam\Documents\Code\c1\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.pdb
 C:\Users\Mohammad Sami Alam\Documents\Code\c1\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.genruntimeconfig.cache
 C:\Users\Mohammad Sami Alam\Documents\Code\c1\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.csproj.CopyComplete
+C:\Users\Mohammad Sami Alam\Documents\Code\c1\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\HelloWorld\Index.cshtml.g.cs
